@@ -1,3 +1,4 @@
+//test github
 module.exports = exports = function soal01(req, res, next) {
   let n = req.params.n; //request parameter n
   totalBaris = 10;
